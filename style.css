@@ -1,0 +1,21 @@
+#img-portrait{
+	width: 150px;
+	border: solid blue 1px;
+}
+
+.paper{
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.paper-title{
+	font-weight: bold;
+}
+
+.paper-info{
+	font-style: italic;
+}
+
+a{
+	cursor: pointer;
+}
