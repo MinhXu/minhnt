@@ -1,2 +1,2 @@
 # minhnt
-Personal website
+Personal website: https://minhxu.github.io/minhnt
